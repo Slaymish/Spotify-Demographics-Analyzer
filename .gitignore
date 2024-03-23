@@ -1,0 +1,23 @@
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore logs and temporary files
+*.log
+*.swp
+*.swo
+*.tmp
+
+# Ignore IDE-specific files and folders
+.vscode/
+.idea/
+
+# Ignore .env file
+.env
+
+# Ignore cache files
+artist_cache.json
